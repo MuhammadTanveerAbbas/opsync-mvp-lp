@@ -2,7 +2,7 @@
 
   <h1 align="center">🚀 Opsync SaaS Landing Page</h1>
   <p align="center">
-    Animated components built with <strong>React</strong>, <strong>TypeScript</strong>, <strong>Tailwind CSS</strong>, and <strong>Framer Motion</strong>.
+    Animated site built with <strong>React</strong>, <strong>TypeScript</strong>, <strong>Tailwind CSS</strong>, and <strong>Framer Motion</strong>.
   </p>
 
 </div>
